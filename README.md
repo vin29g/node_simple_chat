@@ -1,5 +1,6 @@
 # node_simple_chat
-Chat Server using sockets in node.js
+Chat Server using sockets in node.js.
+
 This chat example showcases how to use `socket.io` with a static `express` server.
 
 ## Running the server
